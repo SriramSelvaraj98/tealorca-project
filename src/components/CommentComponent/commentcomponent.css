@@ -1,0 +1,22 @@
+.comment-component-main-container{
+ width: 70%;
+ display: flex;
+ justify-content: center;
+ background-color: #f1f1f1; 
+ padding: 24px;
+}
+
+.comment-adding-button{
+  border: none;
+  background-color: skyblue;
+  color: white;
+  border-radius: 16px;
+  margin-left: 16px;
+}
+
+.edit-delete-span{
+  color: black;
+  text-decoration: underline;
+  margin-left: 5px;
+  cursor: pointer;
+}
